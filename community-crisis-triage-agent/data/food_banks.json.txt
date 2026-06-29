@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Community Food Bank",
+    "address": "10 Market Rd",
+    "phone": "555-2222",
+    "hours": "Mon-Fri 9am-5pm"
+  }
+]
