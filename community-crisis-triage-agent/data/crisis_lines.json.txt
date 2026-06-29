@@ -1,7 +1,0 @@
-[
-  {
-    "name": "24h Crisis Line",
-    "phone": "555-0000",
-    "hours": "24/7"
-  }
-]
